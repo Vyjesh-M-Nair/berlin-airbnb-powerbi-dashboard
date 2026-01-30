@@ -24,6 +24,6 @@ This dashboard analyzes Airbnb listings in Berlin to uncover trends in pricing, 
 ![Dashboard Screenshot](dashboard_screenshot.png)
 
 ## 📌 Author
-**[Your Name]**  
+**Vyjesh Madhusoodanan Nair**  
 Master’s in Data Science — Berlin  
 Aspiring Data Analyst / BI Analyst
